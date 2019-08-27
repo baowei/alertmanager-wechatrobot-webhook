@@ -1,5 +1,5 @@
-# alertmanager-wechatbot-webhook
-Convert alertmanger webhook messages to qiye WeChat bots that can receive messages
+# alertmanager-wechatrobot-webhook
+Convert alertmanger webhook messages to qiye WeChat robots that can receive messages
 
 ## How use
 ```
